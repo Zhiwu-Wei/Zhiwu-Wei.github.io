@@ -5,7 +5,7 @@ navbar_name: "Zhiwu Wei"
 positions:
 - name: Leverhulme Early Career Fellow
 - name: University of Cambridge
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  # logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
 email: "zw387@cam.ac.uk"
@@ -22,22 +22,28 @@ orcid: 0000-0003-3542-4172
 short_bio_text_justify: true
 short_bio: >-
   <p>
-    I am Leverhulme Trust and Isaac Newton Trust Early Career Fellow at the Department of Land Economy, and Governing Body Fellow of Hughes Hall, University of Cambridge. 
-    He is also a Visiting Fellow at the Department of Social Policy and Intervention, University of Oxford, and affiliated with Cambridge’s Lab of Interdisciplinary Spatial Analysis. 
-    His research applies GeoAI, GIS, big data, and causal inference methods to understand the causes and consequences of spatial inequality, 
+    Welcome to my personal website. I am Leverhulme Trust and Isaac Newton Trust Early Career Fellow 
+    at the <a href="https://www.landecon.cam.ac.uk/person/zhiwu-wei">Department of Land Economy</a>, 
+    and Governing Body Fellow of <a href="https://www.hughes.cam.ac.uk/about/our-people/seniors-members/dr-zhiwu-wei/">Hughes Hall</a>, 
+    University of Cambridge. I am also a Visiting Fellow at the Department of Social Policy and Intervention, 
+    University of Oxford, and affiliated with Cambridge’s <a href="https://www.landecon.cam.ac.uk/lab-interdisciplinary-spatial-analysis">Lab of Interdisciplinary Spatial Analysis</a>. 
+    My research applies GeoAI, GIS, big data, and causal inference methods to understand the causes and consequences of spatial inequality, 
     as well as how new technologies and regional development strategies shape spatial inequality. 
   </p>
   <p>
     I received my Ph.D. in Land Economy from the University of Cambridge with no corrections,
-    M.Sc. in Development Economics from Birmingham University, and B.A. in Information Management and Information Systems from Renmin University of China. 
-    I have done occasional research for the International Inequalities Institute and the Department of Geography and Environment at the London School of Economics, 
-    the Cambridge Judge Business School, Tsinghua University’s Institute for China Sustainable Urbanization, 
+    M.Sc. in Development Economics from Birmingham University with Distinction, 
+    and B.A. in Information Management and Information Systems from Renmin University of China. 
+    I have done occasional research for the International Inequalities Institute and the Department of Geography and Environment 
+    at the London School of Economics, the Cambridge Judge Business School, 
+    Tsinghua University’s Institute for China Sustainable Urbanization, 
     and Peking University’s Institute of New Structural Economics. 
-    Outside of academia, I have worked and provided consulting services for international organizations including the OECD and the Asian Development Bank.
+    Outside of academia, I have worked and provided consulting services for international organizations 
+    including the OECD and the Asian Development Bank.
   </p>
   <p>
-  I was raised by my elderly grandparents in a small rural village in southeastern China before being selected into a prestigious senior high school in the city. 
-  This early experience helps me get the start understanding of spatial inequality.
+  I was raised by my elderly grandparents in a small rural village in southeastern China before being selected 
+  into a prestigious senior high school in the city. This early experience helps me get the start understanding of spatial inequality.
   </p>
 portrait_url: /assets/images/photos/Zhiwu_Wei.jpg
 # portrait_caption: >-
