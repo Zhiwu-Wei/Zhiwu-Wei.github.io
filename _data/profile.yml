@@ -19,9 +19,9 @@ gscholar: Vu_ergsAAAAJ  # This is an example, replace it with your own Google Sc
 linkedin: zhiwuwei
 orcid: 0000-0003-3542-4172
 
-short_bio_text_justify: false
+short_bio_text_justify: true
 short_bio: >-
-  <p class="justify">
+  <p>
     I am Leverhulme Trust and Isaac Newton Trust Early Career Fellow at the Department of Land Economy, and Governing Body Fellow of Hughes Hall, University of Cambridge. 
     He is also a Visiting Fellow at the Department of Social Policy and Intervention, University of Oxford, and affiliated with Cambridge’s Lab of Interdisciplinary Spatial Analysis. 
     His research applies GeoAI, GIS, big data, and causal inference methods to understand the causes and consequences of spatial inequality, 
