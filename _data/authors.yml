@@ -1,22 +1,38 @@
 "Zhiwu Wei":
   bold: true
 
-"Robert White":
-  url: https://www.google.com/?q=Robert+White
+"Davide Luca":
+  url: https://davideluca.com
 
-"Charles Green (MIT)":
-  name: Charles Green
-  url: https://www.google.com/?q=Charles+Green+MIT
+# "Charles Green (MIT)":
+#   name: Charles Green
+#   url: https://www.google.com/?q=Charles+Green+MIT
 
-"Charles Green (Stanford)":
-  name: Charles Green
-  url: https://www.google.com/?q=Charles+Green+Stanford
+# "Charles Green (Stanford)":
+#   name: Charles Green
+#   url: https://www.google.com/?q=Charles+Green+Stanford
 
-"Garrett Harris":
-  url: https://www.google.com/?q=Garrett+Harris
+"Neil Lee":
+  url: https://www.neillee.org
 
-"James Wang":
-  url: https://www.google.com/?q=James+Wang
+"Pei Kuang":
+  url: https://sites.google.com/site/peikuang2011/
 
-"John Doe":
-  url: https://www.google.com/?q=John+Doe
+"Cem Özgüzel":
+  url: https://sites.google.com/view/cemozguzel/home
+
+"Yohan Iddawela":
+  url: https://scholar.google.com/citations?user=YYJHVbYAAAAJ&hl=en
+
+"Qiumeng Li"
+  url: https://qiumengl.github.io
+
+"Andrew McNeil"
+  url: https://www.andrew-mcneil.com
+
+"Franz Fuerst"
+  url: https://www.landecon.cam.ac.uk/directory/dr-franz-fuerst
+
+"Andrés Rodríguez-Pose"
+  url: https://personal.lse.ac.uk/rodrigu1/
+
