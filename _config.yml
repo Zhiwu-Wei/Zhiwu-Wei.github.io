@@ -37,5 +37,6 @@ plugins:
 collections:
   - publications
   - projects
+  - reports
   - blogs
   - showcase
