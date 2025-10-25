@@ -2,10 +2,7 @@
 title:          "Ballots, Budgets and Bricks: Brexit and the Polarisation of Individual Economic Behaviours"
 selected:       true
 abstract: >-
-<details>
-  <summary>Click to show abstract</summary> 
   Does political polarisation influence economic expectations and actual behaviours? Using British nationally representative surveys and administrative data, we show that the Brexit referendum triggered stark divergences in individual micro and macro expectations between Leave and Remain supporters. These diverging beliefs influenced major financial decisions. Leavers became more likely to purchase durables and engage in housing transactions, and areas with higher proportions of Leave voters experienced increased housing transaction volumes and rising prices. Our findings highlight how issue polarisation, beyond partisanship, can influence both economic expectations and real-world decisions.
-  </details>
 cover:          /assets/images/covers/Brexit.png
 authors:
 - Pei Kuang
