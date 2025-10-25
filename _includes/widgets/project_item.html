@@ -27,11 +27,11 @@
       {% endif %}
 
       {% if item.abstract %}
-        <a href="javascript:void(0);" 
-           class="small text-muted abstract-links" 
-           onclick="this.nextElementSibling.classList.toggle('d-none')">
-          Show/hide abstract
-        </a>
+        <p class="small pb-0 mb-0 lh-125 text-muted abstract-links">
+          <a href="javascript:void(0);" onclick="this.closest('p').nextElementSibling.classList.toggle('d-none')">
+            [Show/hide abstract]
+          </a>
+        </p>
         <p class="mt-1 mb-1 small text-muted d-none">{{ item.abstract }}</p>
       {% endif %}
 
@@ -72,11 +72,11 @@
         {% endif %}
 
         {% if item.abstract %}
-          <a href="javascript:void(0);" 
-             class="small text-muted abstract-links" 
-             onclick="this.nextElementSibling.classList.toggle('d-none')">
-            Show/hide abstract
-          </a>
+          <p class="small pb-0 mb-0 lh-125 text-muted abstract-links">
+            <a href="javascript:void(0);" onclick="this.closest('p').nextElementSibling.classList.toggle('d-none')">
+              [Show/hide abstract]
+            </a>
+          </p>
           <p class="mt-1 mb-1 small text-muted d-none">{{ item.abstract }}</p>
         {% endif %}
 
