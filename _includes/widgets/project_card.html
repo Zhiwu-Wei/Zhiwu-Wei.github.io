@@ -1,7 +1,7 @@
 {% assign projects = include.projects %}
 <div class="my-3 p-0 bg-white shadow-sm rounded-xl">
     <h6 class="border-bottom border-gray p-3 mb-0">
-        {% if include.title %}{{ include.title }}{% else %}<i class="fas fa-star"></i> Selected Recent Projects{% endif %} 
+        {% if include.title %}{{ include.title }}{% else %}Selected Recent Projects{% endif %} 
     </h6>
     {% for item in projects limit:include.limit %}
         {% include widgets/project_item.html item=item first=false last=false %}    
