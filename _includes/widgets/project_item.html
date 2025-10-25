@@ -27,7 +27,10 @@
       {% endif %}
 
       {% if item.abstract %}
-        <p class="mt-1 mb-1 small text-muted">{{ item.abstract }}</p>
+        <button class="btn btn-link p-0 small" onclick="this.nextElementSibling.classList.toggle('d-none')">
+          Show/hide abstract
+        </button>
+        <p class="mt-1 mb-1 small text-muted d-none">{{ item.abstract }}</p>
       {% endif %}
 
       {% if item.links %}
@@ -67,7 +70,10 @@
         {% endif %}
 
         {% if item.abstract %}
-          <p class="mt-1 mb-1 small text-muted">{{ item.abstract }}</p>
+          <button class="btn btn-link p-0 small" onclick="this.nextElementSibling.classList.toggle('d-none')">
+            Show/hide abstract
+          </button>
+          <p class="mt-1 mb-1 small text-muted d-none">{{ item.abstract }}</p>
         {% endif %}
 
         {% if item.links %}
