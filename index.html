@@ -30,7 +30,7 @@ navbar_title: Home
         {% if site.data.display.homepage.show_selected_publications %}
         {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
         {%
-        include widgets/publication_item.html
+        include widgets/publication_card.html
         publications=pubs
         title='<i class="fas fa-star"></i> Selected Publications'
         %}
@@ -39,7 +39,7 @@ navbar_title: Home
         {% if site.data.display.homepage.show_selected_projects %}
         {% assign pubs = site.projects | sort: "title" | reverse | where: "selected", true %}
         {%
-        include widgets/project_item.html
+        include widgets/project_card.html
         projects=pros
         title='<i class="fas fa-star"></i> Selected Work in Progress'
         %}
