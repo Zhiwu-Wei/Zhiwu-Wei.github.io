@@ -1,8 +1,8 @@
 ---
-title:          "[1] Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
+title:          "Ballots, Budgets and Bricks: Brexit and the Polarisation of Individual Economic Behaviours"
 selected:       true
 abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
+  Does political polarisation influence economic expectations and actual behaviours? Using British nationally representative surveys and administrative data, we show that the Brexit referendum triggered stark divergences in individual micro and macro expectations between Leave and Remain supporters. These diverging beliefs influenced major financial decisions. Leavers became more likely to purchase durables and engage in housing transactions, and areas with higher proportions of Leave voters experienced increased housing transaction volumes and rising prices. Our findings highlight how issue polarisation, beyond partisanship, can influence both economic expectations and real-world decisions.
 cover:          /assets/images/covers/cover1.jpg
 authors:
 - Your Name*
