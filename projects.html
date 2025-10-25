@@ -1,0 +1,18 @@
+---
+layout: default
+title: Work in Progress
+navbar_title: Work in Progress
+---
+
+{% assign sorted_pros = site.projects | sort: "title" %}
+
+<div class="row">
+  <div class="col-12 col-lg-10">
+    <h2 class="pt-4">Working Papers</h2>
+    <div class="my-0 p-0 bg-white shadow-sm rounded-xl">
+      {% for item in sorted_pros %}
+        {% include widgets/project_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
+      {% endfor %}
+    </div>
+  </div>
+</div>
