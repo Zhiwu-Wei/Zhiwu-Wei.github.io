@@ -11,6 +11,7 @@ authors:
 - Yohan Iddawela
 links:
   Current draft (July 2025): https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5376894
+  ADB Economics WP (November 2025): https://www.adb.org/publications/mobile-internet-connectivity-philippines
   LSE Geography WP (July 2025): https://eprints.lse.ac.uk/128856/1/paper_51_lee_et_al_1_.pdf
   LSE CEP WP (July 2025): https://cep.lse.ac.uk/pubs/download/dp2114.pdf
   LSE III WP (July 2025): https://eprints.lse.ac.uk/128871/1/III_Working_Paper_153_2_-combined.pdf
