@@ -10,6 +10,6 @@ authors:
 - Davide Luca
 - Neil Lee
 - Andrés Rodríguez-Pose
-# links:
-#   Paper: https://www.cell.com
+links:
+  LSE III WP (April 2026): https://researchonline.lse.ac.uk/id/eprint/137937/
 ---
