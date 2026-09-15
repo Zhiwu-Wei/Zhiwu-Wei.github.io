@@ -1,8 +1,8 @@
 ---
-title:          "Progressive Nurture: Growing Up in Large Cities and the Urban-Rural Polarization of Individual Values"
+title:          "Formative Cities: Early-Life Exposure to Urban Density and the Making of Universalist Outlooks"
 selected:       true
 abstract: >-
-  Urban-rural polarisation of values is a key societal cleavage of our time. However, there is still debate about whether the differences observed across places are contextual or purely compositional. We provide novel causal evidence showing that exposure to urban density influences individual outlooks beyond compositional effects, but this influence is primarily driven by the environments where individuals spend their early years. We do this by using household panel data from both the UK and Switzerland, which allows us to combine Two-Stage-Least Squares and ‘Movers’ research designs. We show with two different approaches that exposure to urban density before age 20 causally increases support for immigration and gender equality, highlighting the lasting influence of exposure to urban density early in life.
+  Does place influence social and political outlooks? There is increasing evidence of a correlation, but little consensus on causation. Residents of large cities are, on average, more likely to hold values linked to universalism, rather than particularism. Yet, it has proven hard to isolate compositional effects from contextual effects. We provide novel causal evidence showing that exposure to urban density influences individual outlooks beyond compositional effects, but this influence is only driven by the environments where individuals spend their preadult life. We do this by using household panel data from both Switzerland and the UK, which allows us to combine 'Movers' and Two-Stage-Least-Squares research designs. We show with two different approaches that exposure to urban density before age 20 causally increases support for cosmopolitanism,  gender equality and LGBTQ+ rights, highlighting the lasting influence of place early in life.
 cover:          /assets/images/covers/Progressive.png
 authors:
 - Davide Luca
